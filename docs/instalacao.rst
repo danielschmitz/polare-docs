@@ -191,4 +191,7 @@ sistema Polare):
 
 .. warning::
 
-    O login no sistema Polare só poderá ser efetuado se uma infraestrutura SSO estiver instalada e configurada.
+    O login no sistema Polare só poderá ser efetuado se uma infraestrutura `OAUTH <https://oauth.net/2/>`_
+    estiver instalada e configurada. As duas opções atualmente são a infraestrutura fornecida pela UFRN
+    (descrita na sessão :hoverxref:`Pré-Requisitos de Instalação <pre_requisitos>`), ou o `login único pelo
+    GOVBR <https://manual-roteiro-integracao-login-unico.servicos.gov.br/pt/stable/index.html>`_.

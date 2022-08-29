@@ -4,8 +4,10 @@ Pré-Requisitos de Instalação
 ============================
 
 1. Instalar uma infraestrutura de `SSO <https://en.wikipedia.org/wiki/Single_sign-on>`_, `OAUTH <https://en.wikipedia.org/wiki/OAuth>`_ e `API <https://en.wikipedia.org/wiki/API>`_.
-A UFRN pode disponibilizar um ambiente contendo essa infraestrutura. Acesse a `documentação oficial <https://docs.info.ufrn.br/doku.php?id=cooperacao:tutoriais:infraestrutura:api:montagem_infraestrutura_api>`_
-(é necessário login) para mais detalhes.
+A UFRN pode disponibilizar um ambiente contendo essa infraestrutura. Acesse a documentação oficial (é necessário login)
+para mais detalhes:
+
+    https://docs.info.ufrn.br/doku.php?id=cooperacao:tutoriais:infraestrutura:api:montagem_infraestrutura_api.
 
 .. figure:: /_static/img/visao-geral-ambiente-api.png
     :align: center
