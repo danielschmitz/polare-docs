@@ -201,11 +201,11 @@ local (as linhas com o comentário ``# ALTERAR`` devem ser modificadas).
             target: /opt/tomcat/bin/catalina.sh
             read_only: true
           - type: bind
-            source: ${WAR_POLARE}/polare.war
+            source: ${WAR_POLARE}/polare.war # WAR_POLARE é o caminho da pasta "wars"
             target: /polare/deploy/polare.war
             read_only: true
           - type: bind
-            source: ${WAR_POLARE}/polare-publico.war
+            source: ${WAR_POLARE}/polare-publico.war # WAR_POLARE é o caminho da pasta "wars"
             target: /polare/deploy/polare-publico.war
             read_only: true
         networks:
