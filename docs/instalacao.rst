@@ -23,13 +23,15 @@ para clonar o código fonte do sistema Polare (é necessário informar as suas c
 
 .. code-block:: bash
 
-    git clone -b develop https://gitdesenvolvimento.info.ufrn.br/dev/polare.git
+    git clone https://gitdesenvolvimento.info.ufrn.br/dev/polare.git
+    cd polare
+    git checkout release_0.5.0 -b release_0.5.0
 
 
-.. note::
+.. warning::
 
-    Um diretório chamado polare será criado contendo todo o código fonte do sistema. A flag ``-b develop``
-    clona o código fonte já na *branch* ``develop``.
+    O comando ``git checkout release_0.5.0 -b release_0.5.0`` faz *checkout* na *tag* ``release_0.5.0`` e
+    imediatamente cria uma *branch* com o mesmo nome.
 
 
 **Construir os arquivos .war utilizando Maven.** O seguinte comando deve ser executado a partir do diretório
