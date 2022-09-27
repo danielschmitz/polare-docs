@@ -23,7 +23,7 @@ para clonar o código fonte do sistema Polare (é necessário informar as suas c
 
 .. code-block:: bash
 
-    git clone https://gitcooperacao.info.ufrn.br/dev/polare.git
+    git clone https://gitcooperacao.info.ufrn.br/referencia/polare.git
     cd polare
     git checkout release_0.5.0 -b release_0.5.0
 
