@@ -10,6 +10,7 @@ sphinx-rtd-theme = "*"
 rstcheck = "*"
 sphinx-hoverxref = "*"
 pygments = "*"
+furo = "*"
 
 [dev-packages]
 
