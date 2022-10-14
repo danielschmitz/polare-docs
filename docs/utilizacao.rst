@@ -47,7 +47,7 @@ O Polare inicialmente possui em seu fluxo geral 04 (quatro) perfis de usuários 
 .. figure:: /_static/img/utilizacao/01_Figura_Fluxo.png
     :align: center
 
-    Fluxo Geral dos Módulos do Polare
+    Figura 01: Fluxo Geral dos Módulos do Polare
 
 
 Administrador Polare
@@ -99,19 +99,19 @@ conforme as figuras 02, 03, 04 e 05.
 .. figure:: /_static/img/utilizacao/02_Figura_Unidade_Auto-Homologável.png
     :align: center
 
-    Unidade Auto-homologável
+    Figura 02: Unidade Auto-homologável
 
 
 .. figure:: /_static/img/utilizacao/03_Figura_Busca_de_Unidade.png
     :align: center
 
-    Busca de Unidade para Cadastro
+    Figura 03: Busca de Unidade para Cadastro
 
 
 .. figure:: /_static/img/utilizacao/04_Figura_Cadastro_de_Unidade_Auto-Homologável.png
     :align: center
 
-    Cadastro de Unidade Auto-homologável
+    Figura 04: Cadastro de Unidade Auto-homologável
 
 
 .. figure:: /_static/img/utilizacao/05_Figura_Excluir_Unidade_Auto-Homologável.png
@@ -145,7 +145,7 @@ entregas.
 .. figure:: /_static/img/utilizacao/06_Figura_Fluxo_PG.png
     :align: center
 
-    Fluxo do Plano Gerencial
+    Figura 06: Fluxo do Plano Gerencial
 
 
 Cadastro do Plano Gerencial
@@ -160,7 +160,7 @@ tela conforme figura 07.
 .. figure:: /_static/img/utilizacao/07_Figura_Vínculos_Ativos_de_Uma_Chefia_de_Unidade.png
     :align: center
 
-    Vínculos Ativos de Uma Chefia de Unidade
+    Figura 07: Vínculos Ativos de Uma Chefia de Unidade
 
 
 Cadstramento de Plano Gerencial
@@ -171,7 +171,7 @@ No menu selecione a funcionalidade do plano gerencial conforme figura 08.
 .. figure:: /_static/img/utilizacao/08_Figura_Módulo_do_Plano_Gerencial.png
     :align: center
 
-    Módulo do Plano Gerencial
+    Figura 08: Módulo do Plano Gerencial
 
 
 Novo Plano Gerencial
@@ -183,7 +183,7 @@ da unidade.
 .. figure:: /_static/img/utilizacao/09_Figura_Novo_do_Plano_Gerencial.png
     :align: center
 
-    Novo Plano Gerencial
+    Figura 09: Novo Plano Gerencial
 
 .. note:: O sistema só permite o cadastro de um único plano anualmente.
 
@@ -196,7 +196,7 @@ Na tela da figura 10 será necessário cadastrar algumas informações para cria
 .. figure:: /_static/img/utilizacao/10_Figura_Identificação_das_Atribuições_da_Unidade.png
     :align: center
 
-    Identificação das Atribuições da Unidade
+    Figura 10: Identificação das Atribuições da Unidade
 
 .. note:: As informações deste exemplo dependem de cada instituição e de cada unidade de uma instituição.
 
@@ -216,7 +216,7 @@ Na tela da figura 10 será necessário cadastrar algumas informações para cria
 .. figure:: /_static/img/utilizacao/11_Figura_Título_do_Processo_de_Trabalho.png
     :align: center
 
-    Título do Processo de Trabalho
+    Figura 11: Título do Processo de Trabalho
 
 .. note::
     Nesta opção as informações do processo de trabalho podem ser relacionadas com o Plano de Desenvolvimento
@@ -239,7 +239,7 @@ informação em utilização na instituição.
 .. figure:: /_static/img/utilizacao/12_Figura_Processos_de_Trabalho_Cadastrados.png
     :align: center
 
-    Processos de Trabalho Cadastrados
+    Figura 12: Processos de Trabalho Cadastrados
 
 
 Após o cadastramento de um ou mais processos de trabalho, já será possível submeter o plano a homologação ou
@@ -250,25 +250,25 @@ neste momento também poderemos adicionar as atividades do processo.
 .. figure:: /_static/img/utilizacao/13_Figura_Adicionar_Atividades_ao_Processo.png
     :align: center
 
-    Adicionar Atividades ao Processo
+    Figura 13: Adicionar Atividades ao Processo
 
 
 .. figure:: /_static/img/utilizacao/14_Figura_Atividades_Adicionadas_aos_Processos_de_Trabalho.png
     :align: center
 
-    Atividades Adicionadas aos Processos de Trabalho
+    Figura 14: Atividades Adicionadas aos Processos de Trabalho
 
 
 .. figure:: /_static/img/utilizacao/15_Figura_Aviso_Após_Plano_Submetido_para_Homologação.png
     :align: center
 
-    Aviso Após Plano Submetido para Homologação
+    Figura 15: Aviso Após Plano Submetido para Homologação
 
 
 .. figure:: /_static/img/utilizacao/16_Figura_Homologação_do_Plano_Gerencial.png
     :align: center
 
-    Homologação do Plano Gerencial
+    Figura 16: Homologação do Plano Gerencial
 
 
 Homologação do Plano Gerencial
@@ -281,7 +281,7 @@ entregas.
 .. figure:: /_static/img/utilizacao/02_Tabela_Opções_na_Tela_de_Homologação_do_Plano_Gerencial.png
     :align: center
 
-    Opções na Tela de Homologação do Plano Gerencial
+    Tabela 02: Opções na Tela de Homologação do Plano Gerencial
 
 
 Acesso com o Perfil de Dirigente da Unidade
@@ -293,7 +293,7 @@ planos pendentes de homologação.
 .. figure:: /_static/img/utilizacao/17_Figura_Vínculos_Ativos_de_Um_Dirigente_de_Unidade.png
     :align: center
 
-    Vínculos Ativos de Um Dirigente de Unidade
+    Figura 17: Vínculos Ativos de Um Dirigente de Unidade
 
 
 Planos Pendentes de Homologação
@@ -304,7 +304,7 @@ Nesta tela existem duas opções que podem ser visualizadas (histórico e menu d
 .. figure:: /_static/img/utilizacao/18_Figura_Verificando_Planos_Pendentes_de_Homologação.png
     :align: center
 
-    Verificando Histórico do Plano Pendente de Homologação
+    Figura 18: Verificando Histórico do Plano Pendente de Homologação
 
 
 Plano Pendente de Homologação
@@ -315,24 +315,24 @@ Utilizando as opções de exibindo histórico e expandir processos.
 .. figure:: /_static/img/utilizacao/19_Figura_Avaliar_Plano.png
     :align: center
 
-    Avaliar Plano
+    Figura 19: Avaliar Plano
 
 
 .. figure:: /_static/img/utilizacao/20_Figura_Homologar_ou_Justificar.png
     :align: center
 
-    Homologar ou Justificar
+    Figura 20: Homologar ou Justificar
 
 .. figure:: /_static/img/utilizacao/21_Figura_Concluir_Homologação.png
     :align: center
 
-    Concluir Homologação
+    Figura 21: Concluir Homologação
 
 
 .. figure:: /_static/img/utilizacao/22_Figura_Aviso_de_Avaliação_do_Plano_Gerencial.png
     :align: center
 
-    Aviso de Avaliação do Plano Gerencial
+    Figura 22: Aviso de Avaliação do Plano Gerencial
 
 
 Plano Individual do Servidor
@@ -345,7 +345,7 @@ relação das atividades do Plano Gerencial com as entregas do Servidor.
 .. figure:: /_static/img/utilizacao/03_Tabela_Opções_na_Tela_do_Plano_Gerencial.png
     :align: center
 
-    Opções na Tela do Plano Gerencial
+    Tabela 03: Opções na Tela do Plano Gerencial
 
 
 **Pendente de Homologação:** Planos Individuais do Servidor que foram cadastrados, mas ainda não foram avaliados.
@@ -364,7 +364,7 @@ Após o acesso pelo servidor da unidade que só tenha um vínculo não aparece a
 .. figure:: /_static/img/utilizacao/23_Figura_Funcionalidades_do_Sistema.png
     :align: center
 
-    Funcionalidades do Sistema
+    Figura 23: Funcionalidades do Sistema
 
 
 .. note::
@@ -380,7 +380,7 @@ No menu da figura 24 selecione a funcionalidade do plano individual.
 .. figure:: /_static/img/utilizacao/24_Figura_Módulo_do_Plano_Individual.png
     :align: center
 
-    Módulo do Plano Individual
+    Figura 24: Módulo do Plano Individual
 
 
 Criar Novo Plano Individual
@@ -391,7 +391,7 @@ Na tela da figura 25 será possível visualizar e homologar os planos individuai
 .. figure:: /_static/img/utilizacao/25_Figura_Criar_novo_Plano_Individual.png
     :align: center
 
-    Criar novo Plano Individual
+    Figura 25: Criar novo Plano Individual
 
 
 As Duas Etapas Para Criação do Plano Individual
@@ -419,7 +419,7 @@ servidor.
 .. figure:: /_static/img/utilizacao/26_Figura_Informações_Cadastrais_do_Novo_Plano_Individual.png
     :align: center
 
-    Informações Cadastrais do Novo Plano Individual
+    Figura 26: Informações Cadastrais do Novo Plano Individual
 
 
 .. note::
@@ -431,19 +431,19 @@ servidor.
 .. figure:: /_static/img/utilizacao/27_Figura_Carga_Horária_Superior_da_Praticada_Pelo_Servidor.png
     :align: center
     
-    Carga Horária Superior da Praticada Pelo Servidor
+    Figura 27: Carga Horária Superior da Praticada Pelo Servidor
 
 
 .. figure:: /_static/img/utilizacao/28_Figura_Cadastro_do_Plano_Individual.png
     :align: center
 
-    Cadastro do Plano Individual
+    Figura 28: Cadastro do Plano Individual
 
 
 .. figure:: /_static/img/utilizacao/29_Figura_Plano_Individual_Salvo_Com_Sucesso.png
     :align: center
 
-    Plano Individual Salvo Com Sucesso
+    Figura 29: Plano Individual Salvo Com Sucesso
 
 
 **2ª Etapa:** Cadastro das Entregas do Plano Individual
@@ -451,7 +451,7 @@ servidor.
 .. figure:: /_static/img/utilizacao/30_Figura_Cadastrar_Entregas_do_Plano_Individual.png
     :align: center
 
-    Cadastrar Entregas do Plano Individual
+    Figura 30: Cadastrar Entregas do Plano Individual
 
 
 .. note::
@@ -462,55 +462,55 @@ servidor.
 .. figure:: /_static/img/utilizacao/31_Figura_Vincula_da_Entrega_com_a_Atividade.png
     :align: center
 
-    Vincula da Entrega com a Atividade
+    Figura 31: Vincula da Entrega com a Atividade
 
 
 .. figure:: /_static/img/utilizacao/32_Figura_Informações_Detalhadas_da_Entrega.png
     :align: center
 
-    Informações Detalhadas da Entrega
+    Figura 32: Informações Detalhadas da Entrega
 
 
 .. figure:: /_static/img/utilizacao/33_Figura_Finalizar_Cadastro_da_Entrega.png
     :align: center
 
-    Finalizar Cadastro da Entrega
+    Figura 33: Finalizar Cadastro da Entrega
 
 
 .. figure:: /_static/img/utilizacao/34_Figura_Cadastrar_Uma_Nova_Entrega.png
     :align: center
 
-    Cadastrar Uma Nova Entrega
+    Figura 34: Cadastrar Uma Nova Entrega
 
 
 .. figure:: /_static/img/utilizacao/35_Figura_Informações_Detalhadas_de_Uma_nova_Entrega.png
     :align: center
 
-    Informações Detalhadas de Uma nova Entrega
+    Figura 35: Informações Detalhadas de Uma nova Entrega
 
 
 .. figure:: /_static/img/utilizacao/36_Figura_Concluir_Entregas.png
     :align: center
 
-    Concluir Entregas
+    Figura 36: Concluir Entregas
 
 
 .. figure:: /_static/img/utilizacao/37_Figura_Visualizar_Entregas_Cadastradas.png
     :align: center
 
-    Visualizar Entregas Cadastradas
+    Figura 37: Visualizar Entregas Cadastradas
 
 
 .. figure:: /_static/img/utilizacao/38_Figura_Status_da_Entrega.png
     :align: center
 
-    Status da Entrega
+    Figura 38: Status da Entrega
 
 
 .. figure:: /_static/img/utilizacao/39_Figura_Cadastro_de_Justificativas.png
     :align: center
 
-    Cadastro de Justificativas
+    Figura 39: Cadastro de Justificativas
 
 
 Homologação do Plano Individual do Servidor
@@ -521,7 +521,7 @@ Funcionalidade que permite homologar o Plano Individual do Servidor.
 .. figure:: /_static/img/utilizacao/04_Tabela_Opções_na_Tela_do_Plano_Individual.png
     :align: center
 
-    Opções na Tela do Plano Individual
+    Tabela 04: Opções na Tela do Plano Individual
 
 
 Acessando com o Perfil Servidor
@@ -541,13 +541,13 @@ visualização de forma qualitativa que apresenta os dados detalhados das entreg
 .. figure:: /_static/img/utilizacao/40_Figura_Relatório_de_Entregas.png
     :align: center
 
-    Relatório Geral
+    Figura 40: Relatório Geral
 
 
 .. figure:: /_static/img/utilizacao/41_Figura_Relatório_de_Entregas_Quantitativa.png
     :align: center
 
-    Relatório Geral
+    Figura 41: Relatório Geral
 
 
 Referências
