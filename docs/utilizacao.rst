@@ -87,8 +87,8 @@ Perfil que permite a elaboração do Plano Individual do Servidor, incluindo cad
     função de chefia ainda será desenvolvido.
 
 
-Unidade Autohomologável
-=======================
+Unidade Auto-homologável
+========================
 
 Funcionalidade que permite incluir unidades da instituição como unidade auto-homologável, ao qual essa unidade
 após o cadastro do   Plano Gerencial da Unidade de Localização, não precisa passar por uma homologação do
