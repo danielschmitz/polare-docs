@@ -64,7 +64,9 @@ Dirigente da Unidade
 Perfil destinado ao Gestor responsável pela condução de unidades de administração executiva, acadêmica e
 suplementar. Compete ao dirigente a elaboração do Plano Estratégico da Unidade de Administração, supervisionar
 os acompanhamentos das atividades de sua unidade, acompanhar os resultados obtidos e elaborar relatório anual
-de avaliação da unidade. Nota 01: Nesta versão do sistema não foi previsto Módulo para Plano Estratégico.
+de avaliação da unidade. 
+
+.. note:: Nesta versão do sistema não foi previsto Módulo para Plano Estratégico.
 
 
 Cheﬁa da Unidade
@@ -78,9 +80,11 @@ Gestão e Desempenho (PGD), homologar o Plano Individual do servidor e veriﬁca
 Servidor
 --------
 
-Perfil que permite a elaboração do Plano Individual do Servidor, incluindo cadastro de entregas. Nota 02:
-Nesta versão do sistema só foi habilitado o perfil para servidores TAE, o perfil para servidores docentes com
-função de chefia ainda será desenvolvido.
+Perfil que permite a elaboração do Plano Individual do Servidor, incluindo cadastro de entregas.
+
+.. note::
+    Nesta versão do sistema só foi habilitado o perfil para servidores TAE, o perfil para servidores docentes com
+    função de chefia ainda será desenvolvido.
 
 
 Unidade Autohomologável
