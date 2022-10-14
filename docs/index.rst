@@ -20,9 +20,14 @@ pela UFRN, as últimas tem precedência sobre a primeira.
     requisitos.rst
     instalacao.rst
 
-
 .. toctree::
     :maxdepth: 2
     :caption: Login Único GOVBR
 
     govbr.rst
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Utilização
+
+    utilizacao.rst
