@@ -31,3 +31,9 @@ pela UFRN, as últimas tem precedência sobre a primeira.
     :caption: Utilização
 
     utilizacao.rst
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Vídeos
+
+    videos.rst
