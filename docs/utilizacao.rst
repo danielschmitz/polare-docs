@@ -8,7 +8,7 @@ Sistema Informatizado para atender o Programa de Gestão e Desempenho (PGD) das 
 Sistema Integrado de Gestão de Pessoas – SIGRH vinculadas a SETEC/MEC.
 
 Após levantamento das versões do sistema SIGRH em cada uma das instituições vinculadas a SETEC/MEC e
-considerando os aspectos tecnológicos o projeto se apresentou viável para uma solução (Orbital) do SIGRH, ou
+considerando os aspectos tecnológicos, o projeto se apresentou viável para uma solução (Orbital) do SIGRH, ou
 seja, utilizando a Base de Dados do SIGRH. Para a continuidade do projeto o mesmo foi alinhado ao projeto de
 PGD da UFRN com a solução do sistema orbital Polare.
 
@@ -42,7 +42,7 @@ servidor. Nesta versão (0.5) do Polare, dois módulos foram desenvolvidos para 
 Fluxo Geral dos Módulos
 -----------------------
 	
-O Polare inicialmente possui em seu fluxo geral 04 (quatro) perfis de usuários conforme figura 01.
+O Polare inicialmente possui em seu fluxo geral, 04 (quatro) perfis de usuários conforme figura 01.
 
 .. figure:: /_static/img/utilizacao/01_Figura_Fluxo.png
     :align: center
@@ -66,7 +66,7 @@ suplementar. Compete ao dirigente a elaboração do Plano Estratégico da Unidad
 os acompanhamentos das atividades de sua unidade, acompanhar os resultados obtidos e elaborar relatório anual
 de avaliação da unidade. 
 
-.. note:: Nesta versão do sistema não foi previsto Módulo para Plano Estratégico.
+.. note:: Nesta versão do sistema não foi previsto módulo para Plano Estratégico.
 
 
 Cheﬁa da Unidade
@@ -83,8 +83,7 @@ Servidor
 Perfil que permite a elaboração do Plano Individual do Servidor, incluindo cadastro de entregas.
 
 .. note::
-    Nesta versão do sistema só foi habilitado o perfil para servidores TAE, o perfil para servidores docentes com
-    função de chefia ainda será desenvolvido.
+    Nesta versão sistema, o perfil habilitado é para servidores TAE ou servidores em cargo de chefia.
 
 
 Unidade Auto-homologável
@@ -118,7 +117,7 @@ conforme as figuras 02, 03, 04 e 05.
     :align: center
     :class: img
 
-    Excluir Unidade Auto-homologável
+    Figura 05: Excluir Unidade Auto-homologável
 
 
 Plano Gerencial
@@ -208,7 +207,7 @@ Na tela da figura 10 será necessário cadastrar algumas informações para cria
 
 .. note::
     Nesta opção pode ser cadastrada mais de uma atribuição conforme características da unidade ou simplesmente
-    informar a regulamentação das atribuições da unidade.
+    informar o regramento das atribuições da unidade.
 
 
 **2ª Etapa:** Identificação do Título do Processo de Trabalho
@@ -222,19 +221,25 @@ Na tela da figura 10 será necessário cadastrar algumas informações para cria
     Nesta opção as informações do processo de trabalho podem ser relacionadas com o Plano de Desenvolvimento
     Institucional (PDI) ou outros planos institucionais ou da unidade.
 
-.. note:: As informações deste exemplo dependem de cada instituição e de cada unidade de uma instituição.
+.. note::
+    As informações deste exemplo dependem de cada instituição e de cada unidade de uma instituição.
+    Recomendamos consultar os setores de Gestão de Pessoas e Planejamento Institucional para as melhores
+    definições nas 2ª e 3ª etapas do Plano Gerencial.
 
-Após análise no PDI e em outros planos institucionais pela chefia da unidade 03 (três) **Títulos do Processo
-de Trabalho** realizados na unidade foram identificados, sendo 02 (dois) previstos no PDI e 01 (um) previsto
-em outro plano da unidade.
+Exemplo em uma Chefia
+---------------------
+
+Após análise no PDI e em outros planos institucionais pela chefia de uma respectiva unidade, 03 (três)
+Títulos do Processo de Trabalho realizados na unidade foram identificados, sendo 02 (dois) previstos no PDI e
+01 (um) previsto em outro plano da unidade.
 
 **Previsto no PDI:** Novos Módulos do Sistema Integrado de Gestão (SIG) homologados para utilização na
-instituição.
+instituição (apenas exemplo).
 
 **Previsto no PDI:** Projetos Avançados de manutenção, ajustes, novas funcionalidades para os sistemas de
-informação em utilização na instituição.
+informação em utilização na instituição (apenas exemplo).
 
-**Não Previsto no PDI:** Suporte dos Sistemas de Informação Utilizados na Instituição.
+**Não Previsto no PDI:** Suporte dos Sistemas de Informação Utilizados na Instituição (apenas exemplo).
 
 .. figure:: /_static/img/utilizacao/12_Figura_Processos_de_Trabalho_Cadastrados.png
     :align: center
@@ -242,8 +247,8 @@ informação em utilização na instituição.
     Figura 12: Processos de Trabalho Cadastrados
 
 
-Após o cadastramento de um ou mais processos de trabalho, já será possível submeter o plano a homologação ou
-neste momento também poderemos adicionar as atividades do processo.
+Após o cadastramento de um ou mais processos de trabalho, já será possível submeter o plano a homologação,
+e/ou neste momento também poderemos adicionar as atividades do processo.
 
 **3ª Etapa:** Adicionar Atividades ao Processo ou Informações de uma Tabela de Atividade.
 
@@ -287,7 +292,7 @@ entregas.
 Acesso com o Perfil de Dirigente da Unidade
 -------------------------------------------
 
-Após o acesso pelo dirigente da unidade o mesmo deverá acessar com o vínculo da unidade para verificar os
+Após o acesso pelo dirigente da unidade, o mesmo deverá acessar com o vínculo da unidade para verificar os
 planos pendentes de homologação.
 
 .. figure:: /_static/img/utilizacao/17_Figura_Vínculos_Ativos_de_Um_Dirigente_de_Unidade.png
@@ -310,7 +315,7 @@ Nesta tela existem duas opções que podem ser visualizadas (histórico e menu d
 Plano Pendente de Homologação
 -----------------------------
 
-Utilizando as opções de exibindo histórico e expandir processos.
+Utilizando as opções, exibindo histórico e expandir processos.
 
 .. figure:: /_static/img/utilizacao/19_Figura_Avaliar_Plano.png
     :align: center
@@ -359,7 +364,9 @@ relação das atividades do Plano Gerencial com as entregas do Servidor.
 Acesso com o Perfil Servidor
 ----------------------------
 
-Após o acesso pelo servidor da unidade que só tenha um vínculo não aparece a tela dos vínculos.
+Após o acesso pelo servidor da unidade ao sistema polare, dependendo das suas credenciais poderá aparecer um
+ou mais vínculos ativos com no sistema. Na figura da tela 23 é um exemplo do acesso de um servidor que só
+possui um vínculo.
 
 .. figure:: /_static/img/utilizacao/23_Figura_Funcionalidades_do_Sistema.png
     :align: center
@@ -414,7 +421,8 @@ servidor.
 
 **Dia da Semana ***
 
-**Horário * (Início * 00:00 Fim 00:00 *)**
+**Horário * (Início * 00:00 Fim 00:00 *)**, tempo destinado do seu plano para as atividades do PGD conforme
+regramento da sua instituição.
 
 .. figure:: /_static/img/utilizacao/26_Figura_Informações_Cadastrais_do_Novo_Plano_Individual.png
     :align: center
@@ -423,9 +431,9 @@ servidor.
 
 
 .. note::
-    Nesta opção pode ser cadastrada mais de um plano individual para o servidor. Com relação ao horário do sistema
-    contabiliza a quantidade de horas sem intervalo, ou seja, verifique o limite de carga horária se não é
-    superior a praticada pelo servidor.
+    Nesta será cadastrado o plano individual para o servidor. Com relação ao horários, o sistema contabiliza a
+    quantidade de horas sem intervalo, ou seja, verifique se o limite de carga horária não é superior a
+    praticada pelo servidor
 
 
 .. figure:: /_static/img/utilizacao/27_Figura_Carga_Horária_Superior_da_Praticada_Pelo_Servidor.png
@@ -455,8 +463,9 @@ servidor.
 
 
 .. note::
-    Na tela da fila 31 será cadastrada o título da entrega, que vai ser relacionada com a 3ª etapa do Plano
-    Gerencial (Tabela de Atividades).
+    Na tela da figura 31 será cadastrada o título da entrega, que deverá estar relacionada com a 3ª etapa do
+    Plano Gerencial (Tabela de Atividades). Recomendamos consultar sua chefia imediata que cadastrou o Plano
+    Gerencial conforme recomendações dos setores de Gestão de Pessoas e Planejamento Institucional.
 
 
 .. figure:: /_static/img/utilizacao/31_Figura_Vincula_da_Entrega_com_a_Atividade.png
