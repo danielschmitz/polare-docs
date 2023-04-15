@@ -34,6 +34,12 @@ pela UFRN, as últimas tem precedência sobre a primeira.
 
 .. toctree::
     :maxdepth: 1
+    :caption: Envio de dados
+
+    envio.rst
+
+.. toctree::
+    :maxdepth: 1
     :caption: Vídeos
 
     videos.rst
