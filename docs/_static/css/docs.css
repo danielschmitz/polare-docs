@@ -1,6 +1,5 @@
-.img {
-  border-radius: 5px;
-  border: thin solid silver;
+img {
+  margin-bottom: 10px;
 }
 
 .video {

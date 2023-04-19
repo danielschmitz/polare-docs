@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Instalação do Sistema Polare'
-copyright = '2022, UFRN/IFPA'
+copyright = '2023, UFRN/IFPA'
 author = 'UFRN/IFPA'
 
 # -- General configuration ---------------------------------------------------
