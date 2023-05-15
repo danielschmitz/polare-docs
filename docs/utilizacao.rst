@@ -42,7 +42,7 @@ servidor. Nesta versão (0.5) do Polare, dois módulos foram desenvolvidos para 
 Fluxo Geral dos Módulos
 -----------------------
 	
-O Polare inicialmente possui em seu fluxo geral, 04 (quatro) perfis de usuários conforme figura 01.
+O Polare inicialmente possui em seu fluxo geral, 05 (quatro) perfis de usuários conforme figura 01.
 
 .. figure:: /_static/img/utilizacao/01_Figura_Fluxo.png
     :align: center
@@ -56,6 +56,17 @@ Administrador Polare
 Perfil destinado a equipe de TI que permitirá realizar as configurações iniciais do sistema, como habilitar a
 funcionalidade para os Gestores do PGD na instituição cadastrar quais unidades serão Auto-homologáveis, ou
 seja, não necessita de um Dirigente de Unidade para homologar seus planos.
+
+
+Gerenciador de Editais
+--------------------
+
+Perfil destinado a usuários que ficarão responsáveis por cadastrar novos editais no sistema.
+Compete ao gerenciador a criação de editais, definição de vagas, cadastro do documento relacionado com
+o edital e a definição do período de execução do mesmo.
+
+.. note::
+    Para habilitar os casos de uso relacionados com edital, deve ser utilizado o parametro app.parametro-negocial.utiliza-edital=true
 
 
 Dirigente da Unidade
@@ -557,6 +568,52 @@ visualização de forma qualitativa que apresenta os dados detalhados das entreg
     :align: center
 
     Figura 41: Relatório Geral
+
+
+Edital
+========================
+
+Funcionalidade que permite visualizar os editais disponíveis na instituição, caso o usuário seja um gerenciador de editais
+erá possível cadastrar ou editar editais já inseridos no sistema. Os editais definem as regras que os planos gerenciais
+relacionados vão seguir em questão de período de inscrição e quantidade de vagas. O cadastro de Plano Gerencial será associado
+a um edital previamente cadastrado conforme as figuras
+conforme as figuras 42, 43, 44 e 45.
+
+.. figure:: /_static/img/utilizacao/42_Figura_Listagem_Editais.png
+    :align: center
+
+    Figura 42: Listagem Editais
+
+.. figure:: /_static/img/utilizacao/43_Figura_Cadastro_Edital.png
+    :align: center
+
+    Figura 43: Cadastro de Edital
+
+
+.. figure:: /_static/img/utilizacao/44_Figura_Confirmacao_Cadastro_Edital.png
+    :align: center
+
+    Figura 44: Confirmação do Cadastro de Edital
+
+
+.. figure:: /_static/img/utilizacao/45_Figura_Listar_Edital_Cadastrado.png
+    :align: center
+
+    Figura 45: Listagem de Edital Cadastrado
+
+
+Plano Gerencial (Relacionado a Edital)
+========================
+
+Quando o sitema faz utilização de editais o cadastro de Plano Gerencial sofre uma pequena modificação, habilitando
+campo para relacionar o edital que vai ser definir as regras para participação no plano, como período de inscrição
+e a quantidade de vagas que definirá o número de planos individuais que podem ser relacionados ao edital, conforme figura 46.
+
+
+.. figure:: /_static/img/utilizacao/46_Figura_Relaciona_Edital_Plano_Gerencial.png
+    :align: center
+
+    Figura 46: Relacionamento de Edital em Plano Gerencial
 
 
 Referências
