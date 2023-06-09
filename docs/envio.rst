@@ -67,14 +67,17 @@ arquivo localizado em ``dj-polare-pgd/projeto/settings/.env``:
 
 .. code-block:: bash
 
-    SECRET_KEY='3yzj!k%^^^c*k5is(2^)wlvp-z65p)o5yq@^v+d$)ny^9pk1y_'
-    DATABASE_URL='postgres://postgres:admin@localhost:5432/polaredb-backup'
-    ADMINS='usuario=usuario@domain.edu.br'
+    SECRET_KEY='cixd(5rsi2$0h@z7m2juljajcm$%f8c&yy7m7mzqtc73!+e@(-'
+    DATABASE_URL='postgres://postgres:admin@localhost:5432/polaredb'
+    ADMINS='admin=admin@domain.com'
     EMAIL_URL='consolemail://:@'
-    API_PGD_LOGIN_URL='http://localhost:5057/auth/jwt/login'
-    API_PGD_PLANO_TRABALHO_URL='http://localhost:5057/plano_trabalho'
-    API_PGD_USERNAME='usuario@domain.edu.br'
-    API_PGD_PASSWORD='senha'
+    CACHE_URL='redis://127.0.0.1:6379'
+    BROKER_URL='amqp://usuario:senha@localhost:5672/projeto'
+    DISABLE_ACCOUNT_REGISTRATION='False'
+    ACCOUNT_EMAIL_VERIFICATION='none'
+    API_PGD_LOGIN_URL='http://hom.api.programadegestao.economia.gov.br/auth/jwt/login'
+    API_PGD_PLANO_TRABALHO_URL='http://hom.api.programadegestao.economia.gov.br/plano_trabalho'
+    API_PGD_CREDENCIAIS='username=usuario@edu.br,password=senha'
 
 
 As URLs referentes a configurações contendo usuário e senha possuem o seguinte formato:
@@ -100,14 +103,20 @@ linha de comando.
 
 As variáveis API_PGD_*_URL são utilizadas para conexão e envio de dados para a API PGD do governo. As URLS
 apresentadas apontam para o ambiente local de desenvolvimento dessa api descrito em
-`https://github.com/economiagovbr/api-pgd <https://github.com/economiagovbr/api-pgd>`_. A variáveis
-API_PGD_USERNAME e API_PGD_PASSWORD devem ser definidas conforme cadastradas no ambiente de desenvolvimento,
-ou obtidas para o ambiente de produção. As credenciais de produção podem ser obtidas na documentação oficial
+`https://github.com/economiagovbr/api-pgd <https://github.com/economiagovbr/api-pgd>`_. A variável
+API_PGD_CREDENCIAIS deve ser definida conforme cadastrada no ambiente de desenvolvimento,
+ou obtida para o ambiente de produção. As credenciais de produção podem ser obtidas na documentação oficial
 `https://api-programadegestao.economia.gov.br/docs <https://api-programadegestao.economia.gov.br/docs>`_
 
 .. note::
     Para configurar e levantar localmente a aplicação de envio de dados para testes da API PGD acesse a
     documentação oficial disponível em `https://github.com/economiagovbr/api-pgd <https://github.com/economiagovbr/api-pgd>`_
+
+
+.. note::
+    As credenciais (login e senha) obtidas junto ao ministério da economia podem ser utilizadas
+    no ambiente de homologação online `http://hom.api.programadegestao.economia.gov.br/ <http://hom.api.programadegestao.economia.gov.br/>`_.
+
 
 As dependências do projeto são gerenciadas utilizando `pipenv <https://pipenv.pypa.io/en/latest/>`_.
 Inicialmente deve ser criado o ambiente virtual a partir do diretório ``dj-polare-pgd`` utilizando o seguinte
@@ -229,3 +238,8 @@ utilizando a SQL a seguir (conectado no banco da aplicação de recebimento de d
     :linenos:
 
     api_pgd=# alter table public.plano_trabalho alter cod_unidade_exercicio type bigint;
+
+
+.. note::
+    O problema citado anteriormente foi resolvido pela equipe da API PGD na *issue*
+    `https://github.com/gestaogovbr/api-pgd/issues/72 <https://github.com/gestaogovbr/api-pgd/issues/72>`_

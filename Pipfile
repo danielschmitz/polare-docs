@@ -4,12 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-sphinx-autobuild = "*"
 invoke = "*"
-sphinx-rtd-theme = "*"
-rstcheck = "*"
-sphinx-hoverxref = "*"
 pygments = "*"
+rstcheck = "*"
+sphinx-autobuild = "*"
+sphinx-hoverxref = "*"
+sphinx-rtd-theme = "*"
 
 [dev-packages]
 autopep8 = "*"
