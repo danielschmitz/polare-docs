@@ -58,7 +58,7 @@ sistema do Polare. Nesta documentação, os paramêtros de configuração estão
 
 .. code-block:: bash
     :linenos:
-    :emphasize-lines: 2,3
+    :emphasize-lines: 2,3,6,12
 
     # configuração GOVBR
     CATALINA_OPTS="$CATALINA_OPTS -Dspring.security.oauth2.client.registration.govbr.client-id=ALTERAR" # ALTERAR
